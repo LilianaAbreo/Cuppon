@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+.titulo {
+  color:#707070;
+}
+
+.fondonavbar {
+  background-color: #28a745;
+}
+
+.fondoform {
+  background-color: #28a745;
+
+}
+.texto
+{
+  color: #707070;
+  font-size: 0.6rem;
+}
+.color-gris {
+  color: #707070;
+}
+.button {
+  background-color: #ffffff;
+}
+.color-verde {
+  color: #28a745;
+  }
+
+.fondo1 { 
+    background-color: #28a745;  
+    }
+
+.fondo2 { 
+    background-color: #ffffff;  
+    }

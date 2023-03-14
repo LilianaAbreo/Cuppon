@@ -1,6 +1,6 @@
 # Proyecto Cuppon
 
-## Pasos para subir un githab
+## Pasos para subir un github
  Paso 1: para git local
 ``` bash
 git init
@@ -11,7 +11,7 @@ git add
 ```
  Paso 3: 
 ``` bash
-git remot_la ruta_degithub_
+git remot_la ruta_de_github_
 ```
  Paso 4: 
 ``` bash

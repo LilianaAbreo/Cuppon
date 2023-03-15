@@ -24,3 +24,6 @@ Pasos para github pages
 4. Verificar dadede la opcion action si realmente se subio 
 5. Verificar que todo este en verde 
 6. Entrar al link que genero
+
+
+## este archivo fue forkeado por francisco figueroa :D
